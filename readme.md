@@ -10,4 +10,6 @@ turístico de acordo com os seguintes pré-requisitos:
 
 Abuse de sua criatividade para a criação da página! 
 
+Preview:
+
 ![preview](./preview/preview.jpg)
