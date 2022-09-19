@@ -66,6 +66,18 @@ p {
     object-position: 0px -30px;
 }
 
+#esculturas-brennand {
+    object-position: 0px -35px;
+}
+
+#paq-13-maio {
+    object-position: 0px -225px;
+}
+
+#museu {
+    object-position: 0px -135px;
+}
+
 img {
     width: 100%;
 }
@@ -74,3 +86,6 @@ footer {
     padding: 10px 0px;
 }
 
+.link-pag2, .link-home {
+    padding-top: 2px;
+}

@@ -13,3 +13,7 @@ Abuse de sua criatividade para a criação da página!
 Preview:
 
 ![preview](./preview/preview.jpg)
+
+Preview pág 2:
+
+![preview](./preview/preview-pag2.jpg)
