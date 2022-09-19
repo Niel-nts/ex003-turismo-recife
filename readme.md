@@ -17,3 +17,7 @@ Preview:
 Preview pág 2:
 
 ![preview](./preview/preview-pag2.jpg)
+
+Preview 3, parte do código usando as propriedades flex box no cabeçalho da página:
+
+![preview](./preview/preview-cod-header.jpg)

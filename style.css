@@ -9,14 +9,12 @@ header, main, footer {
 }
 
 header {
-    height: 200px;
-}
-
-.title {
-    color: #ffedbf;
-    text-align: center; 
-    padding: 30px;       
-    font-size: 100px;
+    height: 200px;    
+    display: flex;
+    justify-content: center;
+    align-items: center;        
+    color: #ffedbf;     
+    font-size: 50px;
 }
 
 body {
